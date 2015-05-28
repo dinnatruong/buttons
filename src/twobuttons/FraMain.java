@@ -13,5 +13,4 @@ public class FraMain extends JFrame {
         setVisible(true);
 
     }
-    
 }
